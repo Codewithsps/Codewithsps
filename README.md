@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SP Singh</h1>
 <h3 align="center">Looking forward to working in a challenging environment!!!</h3>
 
-<!-- <img align="right" style="right:40;" src="https://github.com/SatishWithCode/SatishWithCode/blob/main/img/VN20210917-153949-unscreen.gif" width="320">
- -->
-<p align="left"> <img
+ <img align="right" style="right:40;" src="https://github.com/Codewithsps/sps/blob/bb2e055e6f07d3dfc6ca76348f1851994bb043e7/photos/sp3.jpg" width="320">
+ 
+ <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=codewithsps&label=Profile%20views&color=0e75b6&style=flat"
         alt="codewithsps" /> </p>
 
