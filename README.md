@@ -12,7 +12,7 @@
 
 - - 🌱 I’m currently learning **Java, Python + Data Structure + Algorithms**
 
-- - 👨‍⚖💻 can you also check out my portfolio at [SP Singh | Portfolio ]https://codewithsps.github.io/sps/)
+- - 👨‍⚖💻 can you also check out my portfolio at [Codewithsps]https://codewithsps.github.io/sps/
 
 - - 📫 How to reach me ****codewithsps@gmail.com****
 
