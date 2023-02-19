@@ -28,7 +28,8 @@
 </div>
 
 ## Contribution Activity Graph :
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codewithsps&theme=cobalt)
+![GitHub Activity Graph]
+<!-- (https://activity-graph.herokuapp.com/graph?username=codewithsps&theme=cobalt) -->
 
 Codewithsps/Codewithsps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
