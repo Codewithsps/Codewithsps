@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SP Singh</h1>
 <h3 align="center">Looking forward to working in a challenging environment!!!</h3>
 
- <img align="right" style="right:40;" src="https://github.com/Codewithsps/sps/blob/2b221e2909bc37a07abd62f09b03708dfbc64443/photos/coding-freak.gif" width="320">
+ <img align="right" style="right:40;" src="https://itgenesis.net/wp-content/uploads/2022/07/39998-web-development.gif" width="320">
  
  <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=codewithsps&label=Profile%20views&color=0e75b6&style=flat"
