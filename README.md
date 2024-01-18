@@ -14,7 +14,7 @@
 
 - - 👨‍⚖💻 can you also check out my portfolio at [Codewithsps]https://codewithsps.github.io/sps/
 
-- - 📫 How to reach me ****codewithsps@gmail.com****
+- - 📫 How to reach me *
 
 - - ⚡ Fun fact ****I Love Creating new things.****
 
