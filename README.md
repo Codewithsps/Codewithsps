@@ -10,7 +10,7 @@
 ![Github](https://img.shields.io/github/followers/codewithsps?label=Followers&logo=Github)
 
 
-- - 🌱 I’m currently learning **Java, Python + Data Structure + Algorithms**
+- - 🌱 I’m currently learning **JavaScript, Python + Data Structure + Algorithms**
 
 - - 👨‍⚖💻 can you also check out my portfolio at [Codewithsps]https://codewithsps.github.io/sps/
 
