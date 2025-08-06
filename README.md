@@ -1,35 +1,22 @@
 <h1 align="center">Hi 👋, I'm SP Singh</h1>
-<h3 align="center">Looking forward to working in a challenging environment!!!</h3>
+<h3 align="center">Software Developer | JavaScript & Python Developer | Web Development Enthusiast</h3>
 
- <img align="right" style="right:40;" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" width="320">
- 
- <p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=codewithsps&label=Profile%20views&color=0e75b6&style=flat"
-        alt="codewithsps" /> </p>
+---
 
-![Github](https://img.shields.io/github/followers/codewithsps?label=Followers&logo=Github)
+🚀 I'm a passionate software developer focused on building responsive and user-friendly web applications.  
+I enjoy working with both front-end and back-end technologies and continuously strive to improve my skills.
 
+---
 
-- - 🌱 Passionate about building responsive web applications and learning modern technologies. Skilled in front-end and back-end development with a focus on clean, efficient code. Always eager to take on new challenges and grow as a developer.
+- 🔭 Currently working on: Personal projects and improving proficiency in **JavaScript frameworks**
+- 🌱 Currently learning: **Advanced JavaScript** and **Python automation**
+- 💼 Portfolio: [codewithsps.github.io/sps](https://codewithsps.github.io/sps)
+- 💬 Ask me about: **HTML, CSS, JavaScript, Python**, and anything web development
+- 📫 Contact me: [Add your email or LinkedIn here]
+- ⚡ Fun fact: I love turning ideas into real, functional web apps from scratch!
 
-- - 👨‍⚖💻 can you also check out my portfolio at [Codewithsps]https://codewithsps.github.io/sps/
+---
 
-- - 📫 How to reach me *
+### 📊 GitHub Stats
 
-- - ⚡ Fun fact ****I Love Creating new things.****
-
-## 🏆 My Profile star's :
-
-<div>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="SP's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codewithsps&langs_count=8&count_private=true&layout=compact&theme=cobalt&hide_border=true" /></a>
-
-
-![SP Singh GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithsps&theme=cobalt&show_icons=true&hide_border=true)
-</div>
-
-## Contribution Activity Graph :
-![GitHub Activity Graph]
-<!-- (https://activity-graph.herokuapp.com/graph?username=codewithsps&theme=cobalt) -->
-
-Codewithsps/Codewithsps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsps&layout=compact&theme=github_dark)
