@@ -10,7 +10,7 @@
 ![Github](https://img.shields.io/github/followers/codewithsps?label=Followers&logo=Github)
 
 
-- - 🌱 I’m currently learning **JavaScript, Python
+- - 🌱 Passionate about building responsive web applications and learning modern technologies. Skilled in front-end and back-end development with a focus on clean, efficient code. Always eager to take on new challenges and grow as a developer.
 
 - - 👨‍⚖💻 can you also check out my portfolio at [Codewithsps]https://codewithsps.github.io/sps/
 
