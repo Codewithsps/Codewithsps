@@ -12,7 +12,7 @@ I enjoy working with both front-end and back-end technologies and continuously s
 - 🌱 Currently learning: **Advanced JavaScript** and **Python automation**
 - 💼 Portfolio: [codewithsps.github.io/sps](https://codewithsps.github.io/sps)
 - 💬 Ask me about: **HTML, CSS, JavaScript, Python**, and anything web development
-- 📫 Contact me: [Add your email or LinkedIn here]
+- 📫 Contact me: codewithsps@gmail.com
 - ⚡ Fun fact: I love turning ideas into real, functional web apps from scratch!
 
 ---
